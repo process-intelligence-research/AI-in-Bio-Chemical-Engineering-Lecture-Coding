@@ -4,7 +4,7 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 
 ## Table of Contents
 
-1. [Lecture 1: Machine learning overview and classical regression](/lecture_1/)
+1. [Lecture 1: Machine learning overview and classical regression](/Lecture_1/)
 2. [Lecture 2: Neural networks for regression and classification](/lecture_2/)
 3. [Lecture 3: Unsupervised Learning](/lecture_3/)
 4. [Lecture 4: Hybrid models and physics-Informed neural networks](/lecture_4/)
