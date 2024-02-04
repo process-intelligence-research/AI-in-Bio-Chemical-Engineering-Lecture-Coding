@@ -31,7 +31,14 @@ lecture_1/
 You can also run the code online via [Binder](https://mybinder.org) or  Google's [Colaboratory](https://research.google.com/colaboratory/). Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. 
 Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
 
+**To execute the notebook in Binder:**
+1. Click the `launch binder` button above. Once the demo launches, click `My_sample_notebook.ipynb` in the file listing.
+2. Run the notebook by selecting `Cell > Run All`.
 
+**To execute the notebook in Colab:**
+1. Click the `Open in Colab` button above. It will launch the notebook directly.
+2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
+3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
 
 ## Getting Started and run code locally
 
