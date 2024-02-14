@@ -14,31 +14,26 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 
 ## Folder Structure
 
-Each lecture is organized into a separate folder with a meaningful name to help you quickly find the relevant code examples. Inside each folder, you'll find Python code files (.py) and any additional resources or documentation related to the lecture.
+Each lecture is organized into a separate folder with a meaningful name to help you quickly find the relevant code examples. Inside each folder, you'll find Python code files (.ipynb) and any additional resources or documentation related to the lecture.
 
    ```
 lecture_1/
-├── example1.py
-├── example2.py
+├── Lecture1.example.py
 ├── ...
 ├── README.md (Optional: Additional information about Lecture 1)
 ```
 
 ## Run code online
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
-You can also run the code online via [Binder](https://mybinder.org) or  Google's [Colaboratory](https://research.google.com/colaboratory/). Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. 
+You can also run the code online via Google's [Colaboratory](https://research.google.com/colaboratory/). 
 Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
-
-**To execute the notebook in Binder:**
-1. Click the `launch binder` button above. Once the demo launches, click `My_sample_notebook.ipynb` in the file listing.
-2. Run the notebook by selecting `Cell > Run All`.
 
 **To execute the notebook in Colab:**
 1. Click the `Open in Colab` button above. It will launch the notebook directly.
 2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
 3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
+
+- Lecture 1 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
 ## Getting Started and run code locally
 
