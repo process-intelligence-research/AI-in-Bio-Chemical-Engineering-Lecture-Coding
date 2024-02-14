@@ -5,12 +5,12 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 ## Table of Contents
 
 1. [Lecture 1: Machine learning overview and classical regression](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%201)
-2. [Lecture 2: Neural networks for regression and classification](/lecture_2/)
-3. [Lecture 3: Unsupervised Learning](/lecture_3/)
-4. [Lecture 4: Hybrid models and physics-Informed neural networks](/lecture_4/)
-5. [Lecture 5: Computer vision](/lecture_5/)
-6. [Lecture 6: Molecular property prediction with graph neural networks](/lecture_6/)
-7. [Lecture 7: ChatGPT and ethical aspects in AI](/lecture_7/)
+2. [Lecture 2: Neural networks for regression and classification](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%202)
+3. [Lecture 3: Unsupervised Learning](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%203)
+4. [Lecture 4: Hybrid models and physics-Informed neural networks](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%204)
+5. [Lecture 5: Computer vision](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%205)
+6. [Lecture 6: Molecular property prediction with graph neural networks](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%206)
+7. [Lecture 7: ChatGPT and ethical aspects in AI](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%207)
 
 ## Folder Structure
 
