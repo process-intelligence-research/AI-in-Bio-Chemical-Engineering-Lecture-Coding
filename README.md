@@ -16,6 +16,9 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 
 - Lecture 1 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
+- Lecture 2 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%202/Lecture2_example.ipynb)
+
+- Lecture 3 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%203/lecture3_examples.ipynb)
 
 ## Folder Structure
 
