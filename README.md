@@ -26,7 +26,7 @@ lecture_1/
 
 ## Run code online
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb))
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
 You can also run the code online via [Binder](https://mybinder.org) or  Google's [Colaboratory](https://research.google.com/colaboratory/). Binder is a free, open-source web service that packages Jupyter notebooks inside an executable container, which can be run within a web browser, no installation required. 
 Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
