@@ -33,6 +33,8 @@ Colab allows users with Google accounts to execute Jupyter notebooks on the Goog
 2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
 3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
 
+## Lecture examples
+
 - Lecture 1 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
 ## Getting Started and run code locally
