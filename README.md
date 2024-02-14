@@ -12,6 +12,11 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 6. [Lecture 6: Molecular property prediction with graph neural networks](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%206)
 7. [Lecture 7: ChatGPT and ethical aspects in AI](https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/tree/main/Lecture%207)
 
+## Lecture examples
+
+- Lecture 1 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
+
+
 ## Folder Structure
 
 Each lecture is organized into a separate folder with a meaningful name to help you quickly find the relevant code examples. Inside each folder, you'll find Python code files (.ipynb) and any additional resources or documentation related to the lecture.
@@ -32,10 +37,6 @@ Colab allows users with Google accounts to execute Jupyter notebooks on the Goog
 1. Click the `Open in Colab` button above. It will launch the notebook directly.
 2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
 3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
-
-## Lecture examples
-
-- Lecture 1 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%201/Lecture1_examples.ipynb)
 
 ## Getting Started and run code locally
 
