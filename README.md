@@ -20,6 +20,12 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 
 - Lecture 3 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%203/lecture3_examples.ipynb)
 
+- Lecture 4 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%204/Lecture4_example.ipynb)
+
+- Lecture 5 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%205/Lecture5_example.ipynb)
+
+- Lecture 6 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%203/lecture6_examples.ipynb)
+
 ## Folder Structure
 
 Each lecture is organized into a separate folder with a meaningful name to help you quickly find the relevant code examples. Inside each folder, you'll find Python code files (.ipynb) and any additional resources or documentation related to the lecture.
