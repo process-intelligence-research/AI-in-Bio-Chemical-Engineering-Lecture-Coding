@@ -1,3 +1,8 @@
+<p align="center">
+    <!--     You can add your logo in the _src_ below -->
+    <img src="https://www.pi-research.org/media/logo_hu8494cc98fadf15586318dd8eaf906d76_68826_0x70_resize_lanczos_3.png" />
+</p>
+
 # AI-in-Bio-Chemical-Engineering-Lecture-Coding
 
 Welcome to the Lecture Examples repository! This repository contains Python code files used as examples during my lectures. Each lecture is organized into a separate folder for easy navigation and reference.
