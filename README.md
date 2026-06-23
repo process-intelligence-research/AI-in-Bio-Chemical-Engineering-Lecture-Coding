@@ -70,6 +70,7 @@ Feel free to use these code examples for reference or in your own learning journ
 ## License
 This repository is open-source and available under the MIT License. Feel free to use, modify, and distribute the code examples as needed.
 
+Technische Universiteit Delft hereby disclaims all copyright interest in the work in this repository written by Artur M. Schweidtmann. Paulien Herder, Dean of Applied Science
 
 ## Contact
 
