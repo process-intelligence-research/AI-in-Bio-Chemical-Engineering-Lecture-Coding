@@ -10,5 +10,10 @@ ignore = [
     "E501",
 ]
 
+[lint.per-file-ignores]
+# Notebooks routinely have a `%pip install` or `warnings.filterwarnings(...)`
+# cell before imports; that's normal notebook style, not a code-quality issue.
+"*.ipynb" = ["E402"]
+
 [format]
 quote-style = "double"
