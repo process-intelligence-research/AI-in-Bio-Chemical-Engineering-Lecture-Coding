@@ -25,7 +25,7 @@ Welcome to the Lecture Examples repository! This repository contains Python code
 
 - Lecture 3 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%203/lecture3_examples.ipynb)
 
-- Lecture 4 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%204/Lecture4_example.ipynb)
+- Lecture 4 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%204/Lecture4_feature_engineering.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%204/Lecture4_PINN.ipynb)
 
 - Lecture 5 examples: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding/blob/main/Lecture%205/Lecture5_example.ipynb)
 
@@ -57,12 +57,26 @@ Colab allows users with Google accounts to execute Jupyter notebooks on the Goog
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/lecture-examples.git
+   git clone https://github.com/process-intelligence-research/AI-in-Bio-Chemical-Engineering-Lecture-Coding.git
+   ```
 
+2. Install the dependencies:
 
-2. Navigate to the specific lecture folder you are interested in.
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-3. Explore the Python code files provided as examples during the lecture.
+   `requirements.txt` pins CUDA-specific `torch`/`torchvision`/`torchaudio` wheels (`+cu118`), which need PyTorch's extra index URL rather than plain PyPI:
+
+   ```bash
+   pip install -r requirements.txt --extra-index-url https://download.pytorch.org/whl/cu118
+   ```
+
+   On a machine without an NVIDIA GPU, install the CPU-only builds instead (see the [PyTorch install guide](https://pytorch.org/get-started/locally/)). `pywin32` in `requirements.txt` is Windows-only and can be skipped on macOS/Linux.
+
+3. Navigate to the specific lecture folder you are interested in.
+
+4. Explore the Python code files provided as examples during the lecture.
 
 ## Usage
 Feel free to use these code examples for reference or in your own learning journey. If you have any questions or need further explanations, please don't hesitate to reach out.

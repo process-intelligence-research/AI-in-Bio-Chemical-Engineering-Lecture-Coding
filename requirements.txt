@@ -68,6 +68,7 @@ torch==2.2.0+cu118
 torch-geometric==2.6.1
 torchaudio==2.2.0+cu118
 torchdata==0.7.1
+torchsummary==1.5.1
 torchvision==0.17.0+cu118
 tornado==6.4.2
 tqdm==4.67.1
