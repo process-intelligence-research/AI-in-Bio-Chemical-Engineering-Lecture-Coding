@@ -44,13 +44,13 @@ lecture_1/
 
 ## Run code online
 
-You can also run the code online via Google's [Colaboratory](https://research.google.com/colaboratory/). 
-Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud. 
+You can also run the code online via Google's [Colaboratory](https://research.google.com/colaboratory/).
+Colab allows users with Google accounts to execute Jupyter notebooks on the Google cloud.
 
 **To execute the notebook in Colab:**
 1. Click the `Open in Colab` button above. It will launch the notebook directly.
-2. Make the notebook live by clicking 'Connect' in the Colab toolbar. 
-3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.) 
+2. Make the notebook live by clicking 'Connect' in the Colab toolbar.
+3. Select `Runtime > Run All` in the menu to execute the notebook. (You may get a warning that the page was not authored by Google.)
 
 ## Getting Started and run code locally
 
@@ -80,4 +80,3 @@ Technische Universiteit Delft hereby disclaims all copyright interest in the wor
 <p align="left">
 <a href="https://www.linkedin.com/in/schweidtmann/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 </p>
-

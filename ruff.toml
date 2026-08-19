@@ -1,0 +1,14 @@
+target-version = "py311"
+line-length = 120
+
+[lint]
+select = ["E", "F", "I", "UP"]
+ignore = [
+    # Long lines are routine in teaching notebooks (comments, plot labels,
+    # docstrings) and wrapping them is low-value busywork. Real formatting
+    # is still handled by `ruff format`.
+    "E501",
+]
+
+[format]
+quote-style = "double"

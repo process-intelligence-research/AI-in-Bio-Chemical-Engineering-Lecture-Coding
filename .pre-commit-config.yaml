@@ -1,0 +1,23 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+      - id: trailing-whitespace
+
+  - repo: https://github.com/kynan/nbstripout
+    rev: 0.8.1
+    hooks:
+      - id: nbstripout
+
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: v0.16.3
+    hooks:
+      - id: ruff-check
+        # --fix, --exit-zero: apply what's safely auto-fixable and report
+        # the rest without blocking commits/CI - remaining findings need a
+        # human judgment call and are tracked as GitHub issues instead.
+        # Formatting (below) stays a hard gate since it's unambiguous.
+        args: [--fix, --exit-zero]
+      - id: ruff-format
