@@ -70,7 +70,7 @@ torchaudio==2.2.0+cu118
 torchdata==0.7.1
 torchsummary==1.5.1
 torchvision==0.17.0+cu118
-tornado==6.4.2
+tornado==6.5.9
 tqdm==4.67.1
 traitlets==5.14.3
 typing_extensions==4.12.2
