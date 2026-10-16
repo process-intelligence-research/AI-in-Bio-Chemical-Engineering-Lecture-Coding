@@ -38,7 +38,7 @@ networkx==3.4.2
 numpy==2.2.3
 packaging==24.2
 pandas==2.2.3
-parso==0.8.4
+parso==0.8.7
 pillow==11.1.0
 platformdirs==4.3.6
 prompt_toolkit==3.0.50
