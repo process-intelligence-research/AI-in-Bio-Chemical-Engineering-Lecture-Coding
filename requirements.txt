@@ -44,7 +44,7 @@ platformdirs==4.3.6
 prompt_toolkit==3.0.50
 propcache==0.3.0
 psutil==7.0.0
-pure_eval==0.2.3
+pure_eval==0.2.4
 pydantic==2.10.6
 pydantic_core==2.27.2
 Pygments==2.19.1
