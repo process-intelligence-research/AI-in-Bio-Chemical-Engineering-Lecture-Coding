@@ -17,7 +17,7 @@ executing==2.2.0
 filelock==3.18.0
 fonttools==4.56.0
 frozenlist==1.5.0
-fsspec==2025.3.0
+fsspec==2026.6.0
 idna==3.10
 ipykernel==6.29.5
 ipython==9.0.2
